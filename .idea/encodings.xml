@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/libs/android-pulltorefresh-library.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/libs/android-support-v4.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/libs/android-support-v7-recyclerview.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/libs/android-ultra-pull-to-refresh-library.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/libs/gson-2.2.4.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/libs/mvchelper_library.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/libs/mvcpullrefshhelper.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/libs/mvcswiperefreshhelper.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/libs/mvcultrahelper.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/libs/volley.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/controllers/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/controllers/other/BookDetailActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/controllers/other/MovieDetailActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/controllers/other/UltraRecyclerViewActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/controllers/other/VolleyGridViewActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/controllers/task/LoginActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/controllers/task/UploadActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/controllers/testhelpers/NormalActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/controllers/testhelpers/PullrefshActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/controllers/testhelpers/SwipeRefreshActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/controllers/testhelpers/UltraActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/models/datasource/BookDetailDataSource.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/models/datasource/BooksAsyncDataSource.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/models/datasource/BooksDataSource.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/models/datasource/MovieDetailDataSource.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/models/datasource/VolleyRequestHandle.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/models/enties/Book.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/models/enties/Discuss.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/models/enties/Movie.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/models/enties/User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/models/task/LoginTask.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/models/task/UploadTask.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/utils/HttpUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/utils/MyVolley.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/view/adapters/BooksAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/view/adapters/MovieDetailAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/view/adapters/ReBooksAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/view/callback/UploadCallback.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/views/GridViewHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/laogande/test/views/GridViewWithHeaderAndFooter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-ldpi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

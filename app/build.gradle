@@ -1,0 +1,40 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.0"
+
+    defaultConfig {
+        applicationId "com.laogande.test"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile ('com.android.support:appcompat-v7:23.0.0'){
+        exclude module: 'support-annotations'
+        exclude module: 'support-v4'
+    }
+    compile ('com.android.support:recyclerview-v7:+'){
+        exclude module: 'support-annotations'
+        exclude module: 'support-v4'
+    }
+    compile files('libs/android-pulltorefresh-library.jar')
+    compile files('libs/android-ultra-pull-to-refresh-library.jar')
+    compile files('libs/gson-2.2.4.jar')
+    compile files('libs/mvchelper_library.jar')
+    compile files('libs/mvcpullrefshhelper.jar')
+    compile files('libs/mvcswiperefreshhelper.jar')
+    compile files('libs/mvcultrahelper.jar')
+    compile files('libs/volley.jar')
+}
